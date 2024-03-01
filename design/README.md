@@ -36,5 +36,3 @@ By clicking on one of the projects below, you can learn more about the project
 - [Telecom Self Care](./self-care/)
 - [SIM Packages](./sim-packages/)
 - [Streaming Sport](./streaming-app/)
-
-If you are interested about my development experiance, you can click [here](../development/)
